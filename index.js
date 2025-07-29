@@ -7,4 +7,4 @@ Event Date: ${l}
 Event Type: ${n}
 Venue Address: ${o}
 Additional Requirements: ${r||"None"}
-Location: https://www.google.com/maps/search/?api=1&query=${lat},${lang}`;window.open(`https://wa.me/919798107150?text=${encodeURIComponent(d)}`),this.reset()});
+Location: https://www.google.com/maps/search/?api=1&query=${lat},${lang}`;window.open(`https://wa.me/918935845455?text=${encodeURIComponent(d)}`),this.reset()});
